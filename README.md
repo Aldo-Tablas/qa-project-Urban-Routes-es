@@ -1,4 +1,4 @@
-QA Project Urban Routes Aldo Tablas Ramírez Sprint No. 8 Grupo 29
+Bootcamp TripleTen-QA Project Urban Routes Aldo Tablas Ramírez 
 
 -Descripción del proyecto
 Este proyecto automatiza la prueba funcional de la aplicación web Urban Routes, que permite solicitar taxis en una ciudad.  
